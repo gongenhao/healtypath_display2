@@ -411,7 +411,7 @@
                                                             <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                             <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                         </label>
-                                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="sleep_azumio_small.png" translatesAutoresizingMaskIntoConstraints="NO" id="tHO-fH-cRv"/>
+                                                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" image="sleep-azumio2.PNG" translatesAutoresizingMaskIntoConstraints="NO" id="tHO-fH-cRv"/>
                                                     </subviews>
                                                     <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                                     <constraints>
@@ -527,7 +527,7 @@
         <image name="carrot.png" width="46" height="63"/>
         <image name="menu_icon.png" width="40" height="40"/>
         <image name="second.png" width="30" height="30"/>
-        <image name="sleep_azumio_small.png" width="573" height="279"/>
+        <image name="sleep-azumio2.PNG" width="615" height="789"/>
         <image name="star.png" width="43" height="41"/>
         <image name="water.png" width="38" height="36"/>
     </resources>
